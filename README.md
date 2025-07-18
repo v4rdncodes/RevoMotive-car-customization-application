@@ -108,9 +108,9 @@ This project is open source for educational and demonstration purposes.
 
 ## Project created by 
 
-Vardan Srivastava
-Abhijeet Bajpai
-Nischil Gupta
+- Vardan Srivastava
+- Abhijeet Bajpai
+- Nischil Gupta
 
 ---
 
