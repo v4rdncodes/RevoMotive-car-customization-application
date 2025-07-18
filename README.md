@@ -106,9 +106,11 @@ This project is open source for educational and demonstration purposes.
 
 ---
 
-## Contact
+## Project created by 
 
-For suggestions, issues, or collaborations, please open an issue on this GitHub repository or contact the maintainer.
+Vardan Srivastava
+Abhijeet Bajpai
+Nischil Gupta
 
 ---
 
